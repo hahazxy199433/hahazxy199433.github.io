@@ -116,6 +116,14 @@ module.exports = {
             "2019-08-15-http2",
           ]
         },
+        {
+          title: '源码解读',
+          collapsable: false,
+          children: [
+            "react源码1",
+            "react源码2",
+          ]
+        },
       ],
       "/interview/": [
         {
@@ -137,6 +145,13 @@ module.exports = {
             "2019-07-21-yidengquestions2", 
             "2019-07-21-yidengquestions3", 
             "2019-08-06-yidengquestion"
+          ]
+        },
+        {
+          title: '算法',
+          collapsable: false,
+          children: [
+            "leetcode",
           ]
         },
         {
