@@ -8,7 +8,7 @@
     "lint:fix": "lint-md ./docs --fix",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "deploy": "bash deploy.sh",
+    "publish": "bash deploy.bat",
     "commit": "npx git-cz"
   },
   "husky": {

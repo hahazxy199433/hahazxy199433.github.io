@@ -2,6 +2,7 @@ module.exports = {
   title: "zxy的前端日志",
   description: "大前端之路开启",
   ga: "UA-121061441-1",
+  base: '/blog/',
   markdown: {
     lineNumbers: true
   },
