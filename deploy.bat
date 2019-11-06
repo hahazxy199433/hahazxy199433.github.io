@@ -18,4 +18,4 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>  REPO=github上的项目
-git push -f git@github.com:hahazxy199433/blog.git master:gh-pages
+git push -f git@github.com:hahazxy199433/blog.git master:blog
